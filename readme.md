@@ -13,3 +13,8 @@
 ![Data Plot](./plots/ex2data2Plot.png)
 
 ![Decision Boundary](./plots/ex2data2DecisionBoundary.png)
+
+
+### Classifying handwritten digits : ex3 (One vs All Logistic regression)
+
+![Example of Training data](./plots/handwritten_digits.png)
